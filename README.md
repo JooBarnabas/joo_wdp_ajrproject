@@ -25,3 +25,8 @@ ros2 run distance_pkg distance_nodes
 ```
 # Graph
 <img width="1117" height="72" alt="rosgraph" src="https://github.com/user-attachments/assets/4da8a8f9-ea88-400f-b8c8-7238faa10d5c" />
+
+# Rviz
+<img width="auto" height="auto" alt="rosgraph" src="https://github.com/user-attachments/assets/591a8c0b-b33e-4a4c-a804-c5503a0c7e04" />
+<img width="auto" height="auto" alt="rosgraph" src="https://github.com/user-attachments/assets/d4376ed5-7aed-4463-9a0a-2a972bc8d292" />
+
